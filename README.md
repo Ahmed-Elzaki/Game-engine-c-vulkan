@@ -1,9 +1,11 @@
+![20240816_115028_0000](https://github.com/user-attachments/assets/a972e657-ad0e-4af7-bc4f-44e2f9d816c6)
+
 # Simple 2D Game Engine in [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/)
 
-![Game Engine](https://imgur.com/i8USYPd)
+
 
 A basic 2D game engine in C++ using SDL2. This engine provides essential features for creating 2D games.
-
+![Game Engine](https://img.shields.io/badge/Game_Engine-2D%20Engine-007ACC?style=flat-square&logo=gamepad&logoColor=white)
 
 ## Features
 
