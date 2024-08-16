@@ -18,8 +18,8 @@ A basic 2D game engine in C++ using SDL2. This engine provides essential feature
 
   - Linux:
   ```bash
-  - sudo apt-get install libsdl2-dev
-  - ```
+  sudo apt-get install libsdl2-dev
+  ```
 
   - **Windows/Mac**: Download from the [SDL2 website](https://www.libsdl.org/download-2.0.php).
 
