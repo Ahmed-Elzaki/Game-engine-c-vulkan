@@ -1,4 +1,4 @@
-# Simple 2D Game Engine
+# Simple 2D Game Engine in 
 
 A basic 2D game engine in C++ using SDL2. This engine provides essential features for creating 2D games.
 
@@ -17,7 +17,9 @@ A basic 2D game engine in C++ using SDL2. This engine provides essential feature
 - **SDL2 Library**: Install SDL2 on your system.
 
   - Linux:
-  - `sudo apt-get install libsdl2-dev`
+  ```bash
+  - sudo apt-get install libsdl2-dev
+  - ```
 
   - **Windows/Mac**: Download from the [SDL2 website](https://www.libsdl.org/download-2.0.php).
 
