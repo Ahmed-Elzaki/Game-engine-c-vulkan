@@ -1,4 +1,4 @@
-# Simple 2D Game Engine in 
+# Simple 2D Game Engine in [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/)
 
 A basic 2D game engine in C++ using SDL2. This engine provides essential features for creating 2D games.
 
