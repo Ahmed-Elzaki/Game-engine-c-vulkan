@@ -1,4 +1,4 @@
-![20240816_115028_0000](https://github.com/user-attachments/assets/a972e657-ad0e-4af7-bc4f-44e2f9d816c6)
+<img src="https://github.com/user-attachments/assets/a972e657-ad0e-4af7-bc4f-44e2f9d816c6" alt="Game Engine" width="250"/>
 
 # Simple 2D Game Engine in [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/)
 
